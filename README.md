@@ -4,6 +4,7 @@ This is a [fork](https://dev.tt-rss.org/tt-rss/ttrss-docker-compose) as I needed
 
 My changes:
 
+- web-nginx: regularly force dns resolution of *app*, in case its ip has changed, eg after a container update
 - TBD
 
 ---
