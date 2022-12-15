@@ -1,3 +1,13 @@
+# Disclaimer
+
+This is a [fork](https://dev.tt-rss.org/tt-rss/ttrss-docker-compose) as I needed to make changes for my **portainer** setup.
+
+My changes:
+
+- TBD
+
+---
+
 # Dockerized tt-rss using docker-compose
 
 The idea is to provide tt-rss working (and updating) out of the box with minimal fuss.
